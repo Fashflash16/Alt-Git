@@ -1,2 +1,2 @@
 This is a Folder for my AltSchoolCloudProject
-This includes Assignments and Mini mini-project for 2025 Session
+This includes Assignments and a mini-project for the Year 2025 Session
